@@ -1,2 +1,4 @@
 # hello-world
-Just saying hi
+Just saying hi!
+
+My favorite color is blue
